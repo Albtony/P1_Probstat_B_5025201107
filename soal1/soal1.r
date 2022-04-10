@@ -20,7 +20,5 @@ hist(rgeom(n = n, prob = p), main = "Histogram Distribusi Geometrik")
 # point e
 mean = 1/p
 cat("mean = ", mean)
-
-# point b
 variance = (1-p)/p^2
-cat("variance = ", mean)
+cat("variance = ", variance)
