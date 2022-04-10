@@ -60,9 +60,9 @@ dengan hasil perhitungan <br>
 ### Nomor 6
 - point a : mencari fungsi probabilitas P(x1 <= x <= x2) z-score dan plot data dimana x1 = diatas mean dam x2 dibawah mean <br>
 ![image](https://user-images.githubusercontent.com/78489357/162620573-0dc98fa7-cd91-490e-8cb2-cbb1205def3e.png) <br>
-plot data :
+plot data : <br>
 ![image](https://github.com/Albtony/P1_Probstat_B_5025201107/blob/main/soal6/plot.png) <br>
-- point b : generate histogram dengan 50 breaks dan format nama "NRP_Nama_Probstat_{Nama Kelas}_DNhistogram"
+- point b : generate histogram dengan 50 breaks dan format nama "NRP_Nama_Probstat_{Nama Kelas}_DNhistogram" <br>
 ![image](https://github.com/Albtony/P1_Probstat_B_5025201107/blob/main/soal6/hist6.png) <br>
 - point c : mean dan variance dari distribusi normal <br>
 ![image](https://user-images.githubusercontent.com/78489357/162620781-61a4717d-cd2d-4e07-9380-c03afb2cde71.png)
