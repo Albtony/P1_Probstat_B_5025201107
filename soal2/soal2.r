@@ -5,7 +5,7 @@ p = 0.2
 
 # point a
 res = dbinom(sembuh, pasien, prob = p)
-cat("b(4, 20, 0.2) = ", res)
+cat("b(4; 20, 0.2) = ", res)
 
 # point b
 hist(rbinom(sembuh, pasien, prob = p), main = "Histogram Distribusi Binomial")
