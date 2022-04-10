@@ -1,5 +1,3 @@
-pacman::p_load(ggplot2)
-
 # soal 1
 # point a
 x = 3
@@ -17,9 +15,7 @@ cat("kesimpulan: probabilitas ditemukannya 3 orang pertama tidak menghadiri acar
     variabel acak")
 
 # point d
-hist = hist(rgeom(n = n, prob = p), main = "Histogram Distribusi Geometrik")
-png(filename = "hist1.png")
-
+hist(rgeom(n = n, prob = p), main = "Histogram Distribusi Geometrik")
 
 # point e
 mean = 1/p
